@@ -1,0 +1,223 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>BUPC-Repository | Repository Management System</title>
+<meta name="generator" content="Jekyll v3.9.0">
+<meta property="og:title" content="BUPC-Repository">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="Repository Management System">
+<meta property="og:description" content="Repository Management System">
+<link rel="canonical" href="https://bupcsac.github.io/BUPC-Repository/">
+<meta property="og:url" content="https://bupcsac.github.io/BUPC-Repository/">
+<meta property="og:site_name" content="BUPC-Repository">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="BUPC-Repository">
+<script type="application/ld+json">
+{"headline":"BUPC-Repository","description":"Repository Management System","url":"https://bupcsac.github.io/BUPC-Repository/","@type":"WebSite","name":"BUPC-Repository","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <link rel="stylesheet" href="/BUPC-Repository/assets/css/style.css?v=">
+    <script src="/BUPC-Repository/assets/js/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/BUPC-Repository/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+<script type="application/ld+json">
+{"headline":"BUPC-Repository","description":"Repository Management System","url":"https://bupcsac.github.io/BUPC-Repository/","@type":"WebSite","name":"BUPC-Repository","@context":"https://schema.org"}</script>
+
+<script type="application/ld+json">
+{"headline":"BUPC-Repository","description":"Repository Management System","url":"https://bupcsac.github.io/BUPC-Repository/","@type":"WebSite","name":"BUPC-Repository","@context":"https://schema.org"}</script>
+
+<body>
+    <div class="wrapper">
+      <header>
+        <h1>BUPC-Repository</h1>
+        
+          <p>Repository Management System</p>
+        
+        <p class="view"><a href="https://github.com/BUPCSAC/BUPC-Repository">View the Project on GitHub <small></small></a></p>
+        <ul>
+        
+          <li><a href="https://github.com/BUPCSAC/BUPC-Repository">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+
+      <p><img src="https://user-images.githubusercontent.com/96967512/147871607-004f0708-2d13-4426-b28c-220f3d610182.gif" alt="BUPC"></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/BUPCSAC/BUPC-Repository/discussions">Discussion</a></td>
+      <td><a href="https://github.com/BUPCSAC/BUPC-Repository/issues/new/choose">Issues</a></td>
+      <td><a href="https://github.com/BUPCSAC/BUPC-Repository/pulls">Pull Request</a></td>
+      <td><a href="https://github.com/BUPCSAC/BUPC-Repository/projects">Projects</a></td>
+      <td><a href="https://github.com/BUPCSAC/BUPC-Repository/upload/main">Add Files</a></td>
+      <td><a href="https://github.com/BUPCSAC/BUPC-Repository/new/main">Create New Files</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="welcome-to-bupc-repository">Welcome to BUPC Repository!</h2>
+
+<p>A place where things are stored for safekeeping, to collect and organize work documents of organization, and, to design and create a user friendly system.</p>
+
+<h3 id="scope">Scope</h3>
+
+<p>Design and develop for college student affairs coordinator’s office.</p>
+
+<p>Only accessible online, with an active internet connection, with an aid of a browser.</p>
+
+<p>Not accessible through offline.</p>
+
+<h3 id="mission">MISSION</h3>
+
+<p>The Bicol University shall give professional and technical training, and provide advanced and specialized instruction in literature, philosophy, the science and arts, besides providing for the promotion of scientific and technological researches. (RA 5521, Sec.3.0).</p>
+
+<h3 id="vision">VISION</h3>
+
+<p>A world class university producing leaders and change agents for social transformation and development.</p>
+
+<h3 id="supports">SUPPORTS</h3>
+
+<p>Having trouble with Pages? Please contact us and we’ll help you sort it out.</p>
+
+
+      </section>
+    </div>
+    <footer>
+    
+      <p>Project maintained by <a href="https://github.com/BUPCSAC">BUPCSAC</a></p>
+    
+      <p>Hosted on GitHub Pages — Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+  
+
+</body>
+<html lang="en-US"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>BUPC-Repository | Repository Management System</title>
+<meta name="generator" content="Jekyll v3.9.0">
+<meta property="og:title" content="BUPC-Repository">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="Repository Management System">
+<meta property="og:description" content="Repository Management System">
+<link rel="canonical" href="https://bupcsac.github.io/BUPC-Repository/">
+<meta property="og:url" content="https://bupcsac.github.io/BUPC-Repository/">
+<meta property="og:site_name" content="BUPC-Repository">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="BUPC-Repository">
+<script type="application/ld+json">
+{"headline":"BUPC-Repository","description":"Repository Management System","url":"https://bupcsac.github.io/BUPC-Repository/","@type":"WebSite","name":"BUPC-Repository","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <link rel="stylesheet" href="/BUPC-Repository/assets/css/style.css?v=">
+    <script src="/BUPC-Repository/assets/js/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/BUPC-Repository/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>BUPC-Repository</h1>
+        
+          <p>Repository Management System</p>
+        
+        <p class="view"><a href="https://github.com/BUPCSAC/BUPC-Repository">View the Project on GitHub <small></small></a></p>
+        <ul>
+        
+          <li><a href="https://github.com/BUPCSAC/BUPC-Repository">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <section>
+
+      <p><img src="https://user-images.githubusercontent.com/96967512/147871607-004f0708-2d13-4426-b28c-220f3d610182.gif" alt="BUPC"></p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/BUPCSAC/BUPC-Repository/discussions">Discussion</a></td>
+      <td><a href="https://github.com/BUPCSAC/BUPC-Repository/issues/new/choose">Issues</a></td>
+      <td><a href="https://github.com/BUPCSAC/BUPC-Repository/pulls">Pull Request</a></td>
+      <td><a href="https://github.com/BUPCSAC/BUPC-Repository/projects">Projects</a></td>
+      <td><a href="https://github.com/BUPCSAC/BUPC-Repository/upload/main">Add Files</a></td>
+      <td><a href="https://github.com/BUPCSAC/BUPC-Repository/new/main">Create New Files</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="welcome-to-bupc-repository">Welcome to BUPC Repository!</h2>
+
+<p>A place where things are stored for safekeeping, to collect and organize work documents of organization, and, to design and create a user friendly system.</p>
+
+<h3 id="scope">Scope</h3>
+
+<p>Design and develop for college student affairs coordinator’s office.</p>
+
+<p>Only accessible online, with an active internet connection, with an aid of a browser.</p>
+
+<p>Not accessible through offline.</p>
+
+<h3 id="mission">MISSION</h3>
+
+<p>The Bicol University shall give professional and technical training, and provide advanced and specialized instruction in literature, philosophy, the science and arts, besides providing for the promotion of scientific and technological researches. (RA 5521, Sec.3.0).</p>
+
+<h3 id="vision">VISION</h3>
+
+<p>A world class university producing leaders and change agents for social transformation and development.</p>
+
+<h3 id="supports">SUPPORTS</h3>
+
+<p>Having trouble with Pages? Please contact us and we’ll help you sort it out.</p>
+
+
+      </section>
+    </div>
+    <footer>
+    
+      <p>Project maintained by <a href="https://github.com/BUPCSAC">BUPCSAC</a></p>
+    
+      <p>Hosted on GitHub Pages — Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+  
+
+</body></html>
