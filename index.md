@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+![BUPC](https://user-images.githubusercontent.com/96967512/147871607-004f0708-2d13-4426-b28c-220f3d610182.gif)
 
-You can use the [editor on GitHub](https://github.com/BUPCSAC/BUPC-Repository/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Discussion](https://github.com/BUPCSAC/BUPC-Repository/discussions)  |  [Issues](https://github.com/BUPCSAC/BUPC-Repository/issues/new/choose)  |  [Pull Request](https://github.com/BUPCSAC/BUPC-Repository/pulls)  |   [Projects](https://github.com/BUPCSAC/BUPC-Repository/projects)  |  [Add Files](https://github.com/BUPCSAC/BUPC-Repository/upload/main)  |  [Create New Files](https://github.com/BUPCSAC/BUPC-Repository/new/main)
 
-### Markdown
+## Welcome to BUPC Repository!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A place where things are stored for safekeeping, to collect and organize work documents of organization, and, to design and create a user friendly system.
 
-```markdown
-Syntax highlighted code block
+### Scope
 
-# Header 1
-## Header 2
-### Header 3
+Design and develop for college student affairs coordinator’s office.
 
-- Bulleted
-- List
+Only accessible online, with an active internet connection, with an aid of a browser.
 
-1. Numbered
-2. List
+Not accessible through offline.
 
-**Bold** and _Italic_ and `Code` text
+### MISSION
 
-[Link](url) and ![Image](src)
-```
+The Bicol University shall give professional and technical training, and provide advanced and specialized instruction in literature, philosophy, the science and arts, besides providing for the promotion of scientific and technological researches. (RA 5521, Sec.3.0).
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### VISION
 
-### Jekyll Themes
+A world class university producing leaders and change agents for social transformation and development.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BUPCSAC/BUPC-Repository/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### SUPPORTS
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Please contact us and we’ll help you sort it out.
